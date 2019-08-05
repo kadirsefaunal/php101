@@ -1,7 +1,5 @@
 <?php
 
-// https://www.php.net/manual/en/ref.array.php
-
 $map = [
     'foo' => 1,
     'bar' => null,
